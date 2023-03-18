@@ -1,0 +1,7 @@
+
+Required modules for this python application to run are (5):
+    - Geopy
+    - PIL
+    - Gmplot
+    - Termcolor
+    - Pyfiglet
